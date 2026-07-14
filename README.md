@@ -3,7 +3,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/SAdreasgamer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shrey+Anand;Backend+Engineer+%7C+Distributed+Systems+%7C+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hey+there!+I+am+Shrey+Anand" alt="Typing SVG" />
   </a>
 
   <br/>
