@@ -3,7 +3,7 @@
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/SAdreasgamer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shrey+Anand;Building+Distributed+Systems+%7C+ML+%7C+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shrey+Anand;Backend+Engineer+%7C+Distributed+Systems+%7C+ML" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -34,12 +34,12 @@ motto: "Not just another Techie"
 
 currently_building:
   - Distributed healthcare platforms with microservices
-  - ML pipelines for medical image classification
+  - AI-powered agents with LangChain & LangGraph
   - Cloud-native applications on AWS
 
 interests:
   - System Design & Distributed Computing
-  - Machine Learning & Computer Vision
+  - Machine Learning & AI Agents
   - DevOps & Cloud Infrastructure
 ```
 
@@ -49,23 +49,24 @@ interests:
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,go,js,ts&theme=dark" alt="Languages" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Languages" />
 
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express&theme=dark" alt="Backend" />
+### 🚀 Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Backend" />
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx&theme=dark" alt="Cloud & DevOps" />
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps" />
 
-### Messaging & Data
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,postgres,mongodb,redis&theme=dark" alt="Data" />
+### 📨 Messaging & Data
+<img src="https://skillicons.dev/icons?i=kafka,redis,mongodb,postgres&theme=dark" alt="Messaging & Data" />
 
-### ML / AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="ML" />
-
-### Frontend & Tools
-<img src="https://skillicons.dev/icons?i=react,html,css,git,linux,vscode&theme=dark" alt="Tools" />
+### 🧠 ML / AI
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="ML" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 
 </div>
 
@@ -75,15 +76,11 @@ interests:
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SAdreasgamer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SAdreasgamer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SAdreasgamer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SAdreasgamer&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  </picture>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAdreasgamer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -92,18 +89,14 @@ interests:
 
 <div align="center">
 
-  <a href="https://github.com/SAdreasgamer/MedSync">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SAdreasgamer&repo=MedSync&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="MedSync" />
-  </a>
-  <a href="https://github.com/SAdreasgamer/StreamForge-Distributed-Media-Processing-Streaming-Platform">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SAdreasgamer&repo=StreamForge-Distributed-Media-Processing-Streaming-Platform&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="StreamForge" />
-  </a>
-  <a href="https://github.com/SAdreasgamer/HotReload_Go">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SAdreasgamer&repo=HotReload_Go&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="HotReload Go" />
-  </a>
-  <a href="https://github.com/SAdreasgamer/Microservices-based-patient-management-system">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SAdreasgamer&repo=Microservices-based-patient-management-system&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Patient Management" />
-  </a>
+| Project | Description |
+|:--------|:------------|
+| [**🏥 MedSync**](https://github.com/SAdreasgamer/MedSync) | Distributed healthcare platform built with 6 microservices (Java + Python). AI agent orchestrates patient management, billing & scheduling via natural language. Features Kafka event-driven analytics, gRPC communication, JWT-secured API Gateway & React dashboard — deployed on AWS with CI/CD. |
+| [**🎬 StreamForge**](https://github.com/SAdreasgamer/StreamForge-Distributed-Media-Processing-Streaming-Platform) | Distributed media processing & streaming platform built with Java microservices. Handles video ingestion, transcoding, and delivery at scale with fault-tolerant architecture. |
+| [**⚡ HotReload Go**](https://github.com/SAdreasgamer/HotReload_Go) | CLI tool that watches a project folder for code changes and automatically rebuilds & restarts the server. Built in Go for blazing-fast file system monitoring. |
+| [**🏨 Patient Management System**](https://github.com/SAdreasgamer/Microservices-based-patient-management-system) | Microservices-based patient management system built with Spring Boot. Implements service discovery, API gateway routing, and inter-service communication patterns. |
+| [**🔐 Homomorphic Encryption + Medical AI**](https://github.com/SAdreasgamer/Homomorphic-with-Henon-Map-Encryption-Medical-Image-Classification) | Privacy-preserving medical image classification using homomorphic encryption combined with Hénon map chaotic encryption. Enables ML inference on encrypted data. |
+| [**🖼️ Noise-Resilient Classification**](https://github.com/SAdreasgamer/Noise-Resilient-Image-Classification-using-Denoising-Autoencoders-and-Noise-Aware-Fine-Tuning) | Image classification pipeline resilient to noisy inputs using denoising autoencoders and noise-aware fine-tuning techniques for robust computer vision. |
 
 </div>
 
